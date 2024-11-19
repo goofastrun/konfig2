@@ -1,0 +1,6 @@
+{
+  "graph_visualizer_path": "C:\\Program Files\\plantuml\\plantuml-mit-1.2024.7.jar",
+  "repository_path": "C:\\Users\\Станислав\\Desktop\\dependency_visualizer_project\\my_repository",
+  "output_path": "C:\\Users\\Станислав\\Desktop\\dependency_visualizer_project\\output.puml",
+  "target_file": "example.py"
+}
